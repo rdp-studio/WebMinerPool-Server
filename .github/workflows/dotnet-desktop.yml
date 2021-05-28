@@ -77,4 +77,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: Server Package
-        path: server\Server\Bin\Release_Server
+        path: Server\Bin\Release_Server
